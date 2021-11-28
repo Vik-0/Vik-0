@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Viktor!
 - 👀 I’m interested in programming, so here we are! Sure, let's also add coffee, music and photography :)
-- 🌱 HTML, CSS, Bootstrap, SASS, JavaScript, Vue.js. Currently I am working on developing back-end skills.
+- 🌱 HTML, CSS, Bootstrap, SCSS, JavaScript, Vue.js. Currently I am working on developing back-end skills.
 - 💞️ Also I’m actively looking for a new experience, so &#8595;
 - 📫 Please feel free to reach me at vhimma@protonmail.com

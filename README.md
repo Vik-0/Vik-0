@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Viktor!
-- 🌟 I am a Full-Stack JavaScript Developer (HTML, CSS, SCSS, Bootstrap, Vue.js, Node.js, Express.js, Docker). 
-- ☕ Other than programming, I'm also interested in coffee, music and photography.
+

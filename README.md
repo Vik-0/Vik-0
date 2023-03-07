@@ -8,16 +8,12 @@
 
 ![Node.js](https://img.icons8.com/color/48/nodejs.png)![TypeScript](https://img.icons8.com/color/48/typescript.png)![Express.js](https://img.icons8.com/ios/48/express-js.png)![MongoDB](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png)![Mongoose](https://img.icons8.com/color/48/mongoose.png)![Redis](https://img.icons8.com/color/48/redis.png)
 
-- Node.js * 
-- JavaScript / TypeScript *
-- Express *
-- Fastify *
-- MongoDB & Mongoose **
+- Node.js
+- JavaScript / TypeScript
+- Express
+- Fastify
+- MongoDB & Mongoose
 - Redis
-
-*I have hands-on experience with this back-end stack.
-
-** I have used them in some of my personal projects. One of them is called "private_notebook", and it can be found on this account.
 
 <h2 align="center">~ Front End ~</h2>
 

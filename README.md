@@ -6,7 +6,7 @@
 
 <h2 align="center">~ Back End ~</h2>
 
-![Node.js](https://img.icons8.com/color/48/nodejs.png)![TypeScript](https://img.icons8.com/color/48/typescript.png)![Express.js](https://img.icons8.com/ios/48/express-js.png)![MongoDB](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png)![Mongoose](https://img.icons8.com/color/48/mongoose.png)![Redis](https://img.icons8.com/color/48/redis.png)
+![Node.js](https://img.icons8.com/color/48/nodejs.png)![TypeScript](https://img.icons8.com/color/48/typescript.png)![JavaScript](https://img.icons8.com/color/48/javascript.png)![Express.js](https://img.icons8.com/ios/48/express-js.png)![MongoDB](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png)![Mongoose](https://img.icons8.com/color/48/mongoose.png)![Redis](https://img.icons8.com/color/48/redis.png)
 
 - Node.js
 - JavaScript / TypeScript

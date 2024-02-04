@@ -22,7 +22,7 @@
 - React.js
 - Vue.js
 - HTML
-- CSS (SCSS/SASS)
+- CSS (SCSS/SASS && TailWind)
 - JavaScript / TypeScript
 
 <h2 align="center">~ Other Tools & Helpers ~</h2>

@@ -1,6 +1,6 @@
 <h1 align="center">Hello!</h1>
 
-<p align="center">I am Viktor, a Tallinn-based JavaScript developer.</p>
+<p align="center">I may be seen coding from time to time</p>
 
 <h1 align="center">Tech Stack</h1>
 
